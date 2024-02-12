@@ -5,10 +5,10 @@
             <brand>ZYYX</brand>
             <material>TPU</material>
             <color>Generic</color>
-            <label>Flex95A</label>
+            <label>proFlex</label>
         </name>
-        <adhesion_info>Use with ZYYX standard/multi-material build-plate</adhesion_info>
-        <description>Fast, safe, and reliable printing. ZYYX Flex95A is ideal for flexible parts or soft grip parts.</description>
+        <adhesion_info>Use with ZYYX standard build plate</adhesion_info>
+        <description>Fast, safe and reliable printing. ZYYX proFlex is ideal for flexible parts or soft grip parts.</description>
         <version>2</version>
         <color_code>#c0c0c0</color_code>
         <GUID>182d2e1d-02cf-4208-b5e7-08607d0af2d8</GUID>
@@ -19,7 +19,7 @@
     </properties>
     <settings>
         <setting key="print temperature">230</setting>
-        <setting key="heated bed temperature">40</setting>
+        <setting key="heated bed temperature">0</setting>
         <setting key="standby temperature">200</setting>
         <setting key="print cooling">100</setting>
         <cura:setting key="material_crystallinity">true</cura:setting>

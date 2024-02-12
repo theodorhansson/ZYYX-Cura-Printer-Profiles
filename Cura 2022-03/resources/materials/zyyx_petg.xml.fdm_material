@@ -5,7 +5,7 @@
       <brand>ZYYX</brand>
       <material>PETG</material>
       <color>Generic</color>
-      <label>ZYYX PETG</label>
+      <label>PETG</label>
     </name>
     <version>1</version>
     <adhesion_info>Use with ZYYX standard/multi-material build-plate</adhesion_info>
