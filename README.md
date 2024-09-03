@@ -1,10 +1,13 @@
 # ZYYX profiles for CURA
 ## We've been trying to reach you regarding your printer's extended warranty
 
-These profiles were developed (with permission) from ZYYX's own profiles for CURA and Simplify3D. Awaiting merge, these can be installed to your own computer using the instructions below.
+These profiles were developed (with permission) from ZYYX's own profiles for CURA and Simplify3D. Awaiting merge with CURA, these can be installed to your own computer using the instructions below. Our profiles provide support for the following printers along with their associated nozzles:
+
+* ZYYX+
+* ZYYX Pro
+* ZYYX Pro II
 
 ## Installation
-
 ### Windows
 
 1. Install CURA using the installer from their site.
