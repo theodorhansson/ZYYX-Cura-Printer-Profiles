@@ -8,7 +8,7 @@
       <label>ABS (MM-plate)</label>
     </name>
     <version>1</version>
-    <GUID>97a44232-dd08-4ac1-847b-0275d83af183</GUID>
+    <GUID>b97a31f2-d883-429a-9138-5c69050ccb2a</GUID>
     <description>ZYYX ABS profile for MM-board.</description>
     <adhesion_info>Recommended nozzle temperature: 250...260C, Chamber temperature: 50...60 layer fan: off...50%, adhesion type: raft with MM Build-Plate.</adhesion_info>
     <color_code>#ffffff</color_code>
