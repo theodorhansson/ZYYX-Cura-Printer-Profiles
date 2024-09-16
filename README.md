@@ -21,4 +21,4 @@ These profiles were developed (with permission) from ZYYX's own profiles for CUR
 
 ### Linux
 
-I don't know how to do this. Feel free to contact me to update the instructions.
+I don't know how to do this, but if you use Linux you can probably figure it out yourself. But feel free to contact me to update the instructions.
