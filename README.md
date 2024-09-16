@@ -16,7 +16,7 @@ These profiles were developed (with permission) from ZYYX's own profiles for CUR
 
 ### MacOS
 
-1. The easiest way to find the location of your install folder is to search for the file ''3dator.def.json'' which will be located in the file ''resources/definitions''.
+1. The easiest way to find the location of your install folder is to search for the file ''3dator.def.json'' which will be located in the folder ''resources/definitions''.
 2. Move up to the folder ''resources'' and manually move the contents from each folder from the downloaded repository to the folder with the matching name. 
 
 ### Linux
