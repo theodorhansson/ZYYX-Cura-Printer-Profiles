@@ -14,6 +14,11 @@ These profiles were developed (with permission) from ZYYX's own profiles for CUR
 2. Download the profiles from this repository from the page ''Releases''.
 3. Find your the location of your CURA install. This will be in the folder ''Program Files/Ultimaker Cura X.Y/share/cura/resources'' where you will extract the contents of this repository.
 
-### Mac and Linux
+### MacOS
+
+1. The easiest way to find the location of your install folder is to search for the file ''3dator.def.json'' which will be located in the file ''resources/definitions''.
+2. Move up to the folder ''resources'' and manually move the contents from each folder from the downloaded repository to the folder with the matching name. 
+
+### Linux
 
 I don't know how to do this. Feel free to contact me to update the instructions.
