@@ -184,7 +184,7 @@
         ],
         "has_machine_quality": true,
         "machine_extruder_trains": { "0": "zyyx_plus_extruder_0" },
-        "machine_x3g_variant": "z",
+        "machine_x3g_variant": "g",
         "preferred_material": "generic_pla",
         "preferred_quality_type": "normal",
         "quality_definition": "zyyx_plus"
