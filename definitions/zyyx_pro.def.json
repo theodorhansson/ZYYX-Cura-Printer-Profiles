@@ -182,7 +182,7 @@
         "has_variants": true,
         "machine": "zyyx_pro",
         "machine_extruder_trains": { "0": "zyyx_pro_extruder" },
-        "machine_x3g_variant": "g",
+        "machine_x3g_variant": "z",
         "preferred_material": "generic_pla",
         "preferred_variant_name": "Carbon0.6",
         "quality_definition": "zyyx_pro",
